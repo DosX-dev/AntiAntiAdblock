@@ -19,8 +19,9 @@ otvet.mail.ru##.adv-slot-wrapper
 ||rs.mail.ru^
 ||xray.mail.ru^
 ||top.mail.ru^$badfilter
-||ad.mail.ru^$3p
-
+||ad.mail.ru^$script,important,redirect-rule=empty
+||mail.ru/count/
+||ad.mail.ru/static/sync-loader.js
 ###AdBlockDialog
 ###ab--notification-ribbon
 ###abDetected
