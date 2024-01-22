@@ -1,2 +1,7 @@
 # AntiAntiAdblock
-Custom adblocker rules to block trash-ad at MailRu, Yandex, Yahoo... etc..
+### Removes advertising banners that are not removed by standard rules and blocks messages asking you to disable the adblocker
+Supported adblockers:
+ * uBlock (recommended)
+ * AdBlock Plus
+ * AdBlock
+ * and other...
