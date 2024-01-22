@@ -18,7 +18,6 @@ otvet.mail.ru##.adv-slot-wrapper
 ||xray.mail.ru^
 ||top.mail.ru^$badfilter
 ||ad.mail.ru^$3p
-
 ###AdBlockDialog
 ###ab--notification-ribbon
 ###abDetected
