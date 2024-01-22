@@ -11,13 +11,13 @@ mail.ru##.dzen-feed
 aternos.org##.exaroton-ad
 otvet.mail.ru##.adv-slot-wrapper
 ||rebus.e.mail.ru^
-||filin.mail.ru^
 ||bar.love.mail.ru^
 ||portal.mail.ru^
 ||rs.mail.ru^
 ||xray.mail.ru^
 ||top.mail.ru^$badfilter
 ||ad.mail.ru^$3p
+
 ###AdBlockDialog
 ###ab--notification-ribbon
 ###abDetected
@@ -554,3 +554,4 @@ pl#@#.advert
 ##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 ##.adhesion.orange.horizontal.sporcle-promo
 ##div[class*="ad" i][style^="width: 1px; height: 1px; position: absolute; left: -10000px; top: -"][style*="z-index: -"]:style(display: block !important;)
+
