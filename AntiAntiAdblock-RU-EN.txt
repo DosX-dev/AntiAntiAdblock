@@ -15,7 +15,6 @@ aternos.org##.exaroton-ad
 otvet.mail.ru##.adv-slot-wrapper
 ||rebus.e.mail.ru^
 ||bar.love.mail.ru^
-||portal.mail.ru^
 ||rs.mail.ru^
 ||xray.mail.ru^
 ||top.mail.ru^$badfilter
