@@ -1,3 +1,6 @@
+[Adblock Plus 2.0]
+! Title: AntiAntiAdblock by DosX
+! Version: 1.0
 ! https://github.com/DosX-dev/AntiAntiAdblock
 
 ||ad.mail.ru^$script,redirect-rule=empty,important
